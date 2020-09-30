@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\bin\Debug\netcoreapp2.1\ProgramaOne.deps.json
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\bin\Debug\netcoreapp2.1\ProgramaOne.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\bin\Debug\netcoreapp2.1\ProgramaOne.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\bin\Debug\netcoreapp2.1\ProgramaOne.dll
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\bin\Debug\netcoreapp2.1\ProgramaOne.pdb
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.dll
+C:\Users\Usuario\source\repos\ProgramaOne\ProgramaOne\obj\Debug\netcoreapp2.1\ProgramaOne.pdb
